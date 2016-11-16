@@ -1,0 +1,186 @@
+#sign-up{
+  font-weight: bold;
+}
+
+.col-xs-6 {
+  width: 45%;
+}
+
+.fake-book-img{
+margin-left: 10%;
+margin-top: 2%;
+}
+.logo{
+  font-size: 40px;
+  color: white;
+  font-style: italic;
+  font-weight: 900;
+margin-top:1.5%;
+margin-left:66px;
+
+}
+.navbar{
+background-color: #365899;
+height: 78px;
+}
+
+.form-control{
+  width: 194px;
+  height: 39px;
+}
+.email{
+  width: 194px;
+  height: 23px;
+  display: inline;
+
+}
+.folder{
+      background-color: rgb(250, 255, 189);
+}
+.phone{
+  width: 194px;
+  height: 23px;
+  display: inline;
+
+}
+.login-button{
+margin-bottom: -50px;
+background-color: #29487d;
+    border-color: #365899;
+}
+.login{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:11px;
+
+}
+
+
+body {
+  background: url('color.png')
+
+}
+.row {
+  background: url('color.png')
+}
+
+
+footer{
+background: white;
+width: 100%;
+margin: 0 auto;
+padding: 0;
+
+}
+.exampleInputEmail1{
+  width: 399px;
+}
+.dropdown{
+  display: inline-block;
+
+}
+
+.checkbox{
+  display: inline-block;
+  width: 15%;
+
+}
+.group{
+  width: 100%;
+
+}
+.name{
+  width: 30%;
+  display: inline-block;
+
+
+}
+.lastname{
+  margin-left: 3em;
+}
+
+.create{
+  padding-top:15px;
+  padding-bottom: 30px;
+}
+
+
+
+
+
+
+.btn-success{
+  width:194px;
+  height: 39px;
+}
+
+footer{
+width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+footer a{
+  padding-left:10px;
+  padding-right;
+  font-size:12px;
+  text-align: left;
+}
+
+
+#bs-example-navbar-collapse-1{
+  margin-left: 215px;
+}
+
+
+label{
+  color:white;
+}
+
+
+/*This is the button*/
+
+
+
+.btn-primary {
+
+  background-color: #bdc7d8;
+
+}
+.btn-primary:focus,
+.btn-primary.focus {
+}
+.btn-default{
+  width: 36px;
+  height: 18px;
+
+}
+.btn-default i{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+}
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color:
+  background-color:
+  border-color:
+}
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus {
+  color:
+  background-color:
+  border-color:
+}
